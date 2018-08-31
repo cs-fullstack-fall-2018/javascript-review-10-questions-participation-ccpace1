@@ -83,6 +83,7 @@ Option 4:
 
 An error message will be displayed because there are multiple script tags in the body.
 
+My answer is: 2
 <hr/>
 
 ### JavaScript Execution Context
@@ -139,6 +140,7 @@ function doAction(data, size) {
 
 4) This#is#a#test that illustrates
 
+My answer is: 3
 <hr/>
 
 ### Try/Catch/Throw
@@ -180,6 +182,7 @@ Executed the finally block
 
 4) Could not call the function to log the info!
 
+My answer is: 3
 <hr/>
 
 ### Input/Confirm (undefined/null)
@@ -226,6 +229,7 @@ The script in the following HTML page prompts the user for values and shows the 
 
 4) The "result" is: 20
 
+My answer is: 3
 <hr/>
 
 ### Typeof/null/undefined/hoisting
@@ -308,7 +312,8 @@ type of v: object
 type of w: object
 type of m: undefined
 type of n: undefined
-```
+
+My answer is: 2
 <hr/>
 
 ### HTML5 Form Elements how fields are submitted) (required, email, password, reset, etc.)
@@ -359,6 +364,7 @@ Temp: 66
 
 4) http://localhost:35132/Account/FormTest?fullName=&emailAdress=test%40gmail.com&mainPhone=555-123-4587&tempPreference=66
 
+My answer is: 2&4
 <hr/>
 
 ### Extra on Array Functions: sort, filter, forEach, etc.
@@ -439,7 +445,7 @@ Name: Lisa, Salary: 33000.00
 Name: tom, Salary: 8000.00 
 Name: Tim, Salary: 14000.00
 ```
-
+My answer is: 4
 <hr/>
 
 ### DOM and BOM
@@ -489,7 +495,6 @@ Question 1) The getDate() function will return: ___
 Question 2) The getUTCDate() function will return: ___
 
 Question 3) The getMonth() function will return: ___
-
 
 <hr/>
 
@@ -555,4 +560,4 @@ You preview the following page in the browser:
 
 4) Kiwi
 
-
+My answer is: 2
